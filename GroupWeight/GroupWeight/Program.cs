@@ -18,4 +18,6 @@ student4.weight = 70f;
 
 float avgWeight = (student1.weight + student2.weight + student3.weight + student4.weight) / 5;
 Console.WriteLine("Weight avg of Student : " + avgWeight);
-
+Console.WriteLine("weight high witchaphon");
+Console.WriteLine("weight low sanruethai");
+Console.WriteLine("653450089-1");
